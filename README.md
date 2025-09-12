@@ -6,14 +6,11 @@ Ejemplos.pdf: ejemplos de expresiones Pandas y similares en SQL con duckDb  en f
 
 PYTHON_101.ipynb: notebook con una itroducción a Python
 
-
-
 data
 
 * bankstatements.csv ejemplo de datos bancarios
-
 * demo30k.csv archivo con datos generados con Faker
-* demo30k.parquet archivo en formato parquet con la misma informacion que el dmeo30k.csv.
+* demo30k.parquet archivo en formato parquet con la misma informacion que el demo30k.csv.
 
 src
 
